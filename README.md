@@ -1,7 +1,7 @@
 # Tooltip Navigation
 
 <h1 align="center">
-  <img alt="ToolTipe Navigation" title="#TooltipNavigation" src="./background.gif" />
+  <img alt="ToolTipe Navigation" title="#TooltipNavigation" src="./assets/background.gif" />
 </h1>
 
 Aplicação para pratica de CSS3, utilizando transition e transform para um efeito bem suave de interação com os botões.
