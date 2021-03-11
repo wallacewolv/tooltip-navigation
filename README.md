@@ -9,4 +9,4 @@
 
 <br>
 <h2 align="center">Project setup <h2>
-  <p align="center">Após o git clone, em sua maquina utilize o comando Open with Live Server </p>
+  <h3 align="center">Após o git clone, em sua maquina utilize o comando Open with Live Server </h3>
